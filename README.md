@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Vlad 👋
 
 <!--
 **vladislavalerievich/vladislavalerievich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+💼 I work as a Python Developer.
+
+🎓 Currently, I'm pursuing a Bachelor's Degree in Computer Science. 
+
+🌱 Also, I'm very keen on Artificial Intelligence. In my spare time, I study Machine Learning.
