@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💼 I work as a Python Developer.
+💼 Python Developer.
 
-🎓 Currently, I'm pursuing a Bachelor's Degree in Computer Science. 
+🎓 Computer Science Student at NURE. 
 
 🌱 Also, I'm very keen on Artificial Intelligence. In my spare time, I study Machine Learning.
