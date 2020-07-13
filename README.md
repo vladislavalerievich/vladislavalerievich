@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 🎓 Computer Science Student at NURE. 
 
-🌱 Also, I'm very keen on Artificial Intelligence. In my spare time, I study Machine Learning.
+🌱 In my spare time, I study Machine Learning.
